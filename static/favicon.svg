@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="107" height="128" viewBox="0 0 107 128"><title>svelte-logo</title><path d="M94.157 22.819c-10.4-14.885-30.94-19.297-45.792-9.835L22.282 29.608A29.92 29.92 0 0 0 8.764 49.65a31.5 31.5 0 0 0 3.108 20.231 30 30 0 0 0-4.477 11.183 31.9 31.9 0 0 0 5.448 24.116c10.402 14.887 30.942 19.297 45.791 9.835l26.083-16.624A29.92 29.92 0 0 0 98.235 78.35a31.53 31.53 0 0 0-3.105-20.232 30 30 0 0 0 4.474-11.182 31.88 31.88 0 0 0-5.447-24.116" style="fill:#ff3e00"/><path d="M45.817 106.582a20.72 20.72 0 0 1-22.237-8.243 19.17 19.17 0 0 1-3.277-14.503 18 18 0 0 1 .624-2.435l.49-1.498 1.337.981a33.6 33.6 0 0 0 10.203 5.098l.97.294-.09.968a5.85 5.85 0 0 0 1.052 3.878 6.24 6.24 0 0 0 6.695 2.485 5.8 5.8 0 0 0 1.603-.704L69.27 76.28a5.43 5.43 0 0 0 2.45-3.631 5.8 5.8 0 0 0-.987-4.371 6.24 6.24 0 0 0-6.698-2.487 5.7 5.7 0 0 0-1.6.704l-9.953 6.345a19 19 0 0 1-5.296 2.326 20.72 20.72 0 0 1-22.237-8.243 19.17 19.17 0 0 1-3.277-14.502 17.99 17.99 0 0 1 8.13-12.052l26.081-16.623a19 19 0 0 1 5.3-2.329 20.72 20.72 0 0 1 22.237 8.243 19.17 19.17 0 0 1 3.277 14.503 18 18 0 0 1-.624 2.435l-.49 1.498-1.337-.98a33.6 33.6 0 0 0-10.203-5.1l-.97-.294.09-.968a5.86 5.86 0 0 0-1.052-3.878 6.24 6.24 0 0 0-6.696-2.485 5.8 5.8 0 0 0-1.602.704L37.73 51.72a5.42 5.42 0 0 0-2.449 3.63 5.79 5.79 0 0 0 .986 4.372 6.24 6.24 0 0 0 6.698 2.486 5.8 5.8 0 0 0 1.602-.704l9.952-6.342a19 19 0 0 1 5.295-2.328 20.72 20.72 0 0 1 22.237 8.242 19.17 19.17 0 0 1 3.277 14.503 18 18 0 0 1-8.13 12.053l-26.081 16.622a19 19 0 0 1-5.3 2.328" style="fill:#fff"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="900" height="900" viewBox="0 0 900 900" xml:space="preserve" id="SVGRoot" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><defs id="defs2"><clipPath id="_clip5">
+            <rect x="5860.3301" y="0" width="1000" height="1000" id="rect96"></rect>
+        </clipPath></defs><sodipodi:namedview pagecolor="#a9a9a9" bordercolor="#292929" borderopacity="1" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#232323" id="namedview1" showgrid="false" showguides="false"><inkscape:grid id="grid2" units="px" originx="0" originy="0" spacingx="1" spacingy="1" empcolor="#0099e5" empopacity="0.30196078" color="#0099e5" opacity="0.14902" empspacing="5" enabled="true" visible="false"></inkscape:grid><inkscape:page x="0" y="0" width="900" height="900" id="page2" margin="0" bleed="0"></inkscape:page></sodipodi:namedview><style type="text/css" id="style1">
+g.prefab path {
+  vector-effect:non-scaling-stroke;
+  -inkscape-stroke:hairline;
+  fill: none;
+  fill-opacity: 1;
+  stroke-opacity: 1;
+  stroke: #00349c;
+}
+</style><g id="Artboard6" transform="matrix(0.79024038,0,0,0.79024038,-4573.746,54.880395)" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5">
+        <rect x="5860.3301" y="0" width="1000" height="1000" style="fill:none" id="rect95"></rect>
+        <clipPath id="clipPath1">
+            <rect x="5860.3301" y="0" width="1000" height="1000" id="rect1"></rect>
+        </clipPath>
+        <g clip-path="url(#_clip5)" id="g98">
+            <g transform="matrix(1.3035,0,0,1.30088,-1922.77,-304.595)" id="g96">
+                <circle cx="6354.5" cy="618.5" r="385.5" style="fill:#283618" id="circle96"></circle>
+            </g>
+            <g transform="matrix(12.8552,0,0,12.8552,5776.66,-236.898)" id="g97">
+                <path d="m 19.5,77 21,-42 5.75,10.5 c 0,0 -14.628,29.256 -15.689,31.379 C 30.523,76.953 30.447,77 30.364,77 29.105,77 19.5,77 19.5,77 Z M 51.566,55.373 c 0.039,-0.074 0.04,-0.161 0.003,-0.236 C 51.014,54.028 46.75,45.5 46.75,45.5 L 52.5,35 c 0,0 9.217,18.434 10.38,20.76 0.075,0.151 0.074,0.329 -0.005,0.478 C 61.662,58.554 52,77 52,77 c 0,0 -5.32,-9.754 -5.941,-10.892 -0.037,-0.068 -0.038,-0.149 -0.002,-0.217 0.552,-1.054 4.937,-9.425 5.509,-10.518 z" style="fill:#f9f9f9" id="path96"></path>
+            </g>
+        </g>
+    </g></svg>
